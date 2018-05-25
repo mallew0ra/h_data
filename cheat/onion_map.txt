@@ -1,0 +1,4 @@
+http://seclists.org/nmap-dev/2015/q2/317
+sudo ./nmap -sK --script connectscan,discovery --proxy socks4a://127.0.0.1:9050 jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion -F
+sudo nano /etc/hosts
+127.0.0.1 \t  targetsite.onion
