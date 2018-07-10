@@ -74,6 +74,12 @@ sudo ./nmap -sK --script connectscan,discovery --proxy socks4a://127.0.0.1:9050 
 
 ========================================
 
+NoSQLMap:
+
+https://github.com/codingo/NoSQLMap
+
+========================================
+
 jexboss:
 
 git clone https://github.com/joaomatosf/jexboss.git
