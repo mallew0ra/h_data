@@ -217,7 +217,10 @@ sudo chmod 777 ./sandmap
 
 ========================================
 
-
+git clone https://github.com/UnaPibaGeek/ctfr
+git clone https://github.com/portcullislabs/enum4linux
+git clone https://github.com/samhaxr/hackbox.git`
+git clone https://github.com/UltimateHackers/sqlmate
 
 ______________________________________
 ??????????????????????????????????????
