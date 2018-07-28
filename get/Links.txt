@@ -12,20 +12,26 @@ https://vulners.com/
 https://snyk.io/
 https://www.saucs.com/
 
-
 ----------------------------------------------------------
 | rss                                                    |
 | https://rss.packetstormsecurity.com/files/tags/exploit/|
 | https://www.exploit-db.com/rss.xml                     |
 | https://krebsonsecurity.com/feed/                      |
 | https://www.cvedetails.com/browse-by-date.php          |
+| https://0day.today/rss                                 |
 ----------------------------------------------------------
 
-
+info gathering:
+http://other.w3rank.ru/
+https://www.netcraft.com/
+https://haveibeenpwned.com/
 
 forum:
 https://0x00sec.org/
 
+scanners:
+https://nmap.org/nsedoc
+http://www.domxssscanner.com/
 
 
 Hash Crack:
