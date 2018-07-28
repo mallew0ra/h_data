@@ -1,19 +1,57 @@
-IP search:
-https://www.zoomeye.org/
-https://www.shodan.io/
-https://www.censys.io/
 
-exploit:
+                                             
+ _|        _|            _|                  
+ _|            _|_|_|    _|  _|      _|_|_|  
+ _|        _|  _|    _|  _|_|      _|_|      
+ _|        _|  _|    _|  _|  _|        _|_|  
+ _|_|_|_|  _|  _|    _|  _|    _|  _|_|_|    
+                                             
+                                             
+
+Search:
+
+=================================
+
+Sites:
+
+https://null-byte.wonderhowto.com/
+https://www.shellhacks.com/
+https://www.offensive-security.com/
+https://www.cyber-security.ro/blog/
+
+=================================
+
+Hash
+
+https://www.hashcat.online/
+https://hashkiller.co.uk/md5-decrypter.aspx
+http://rainbowtables.it64.com/
+https://crackstation.net/
+
+=================================
+
+Hack Search
+
+https://www.shodan.io/
+https://censys.io/
+https://www.zoomeye.org/
+
+=================================
+
+Exploit search
+
 https://www.exploit-db.com/
-https://rss.packetstormsecurity.com/
-https://krebsonsecurity.com/
-https://www.cvedetails.com/
 https://vulners.com/
+https://0day.today/
 https://snyk.io/
 https://www.saucs.com/
+https://www.packetstormsecurity.com/
+https://krebsonsecurity.com/
+https://www.cvedetails.com/browse-by-date.php
+https://cxsecurity.com/
 
 ----------------------------------------------------------
-| rss                                                    |
+| RSS:                                                   |
 | https://rss.packetstormsecurity.com/files/tags/exploit/|
 | https://www.exploit-db.com/rss.xml                     |
 | https://krebsonsecurity.com/feed/                      |
@@ -21,20 +59,22 @@ https://www.saucs.com/
 | https://0day.today/rss                                 |
 ----------------------------------------------------------
 
-info gathering:
-http://other.w3rank.ru/
+=================================
+
+Forum:
+
+https://codeby.net/
+
+=================================
+
+Info gather:
+
+https://other.w3rank.ru/
 https://www.netcraft.com/
 https://haveibeenpwned.com/
 
-forum:
-https://0x00sec.org/
+=================================
 
 scanners:
 https://nmap.org/nsedoc
 http://www.domxssscanner.com/
-
-
-Hash Crack:
-http://rainbowtables.it64.com/
-https://crackstation.net/
-https://hashkiller.co.uk/md5-decrypter.aspx
