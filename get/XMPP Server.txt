@@ -1,0 +1,94 @@
+XMPP (Jabber):
+www.jabber.org 
+xmpp.net 
+--------------
+Germany:
+securejabber.me - giyvshdnojeivkom.onion 
+Can be blocked
+--------------
+Netherlands:
+jabber.calyxinstitute.org - ijeeynrc6x2uy5ob.onion 
+neko.im -
+Ранее базировались в Норвегии 
+--------------
+Switzerland 
+sj.ms - swissjabber.ch Швейцария 
+--------------
+Japan
+xmpp.jp - wallstreetjabber.biz 
+--------------
+USA 
+wsjabberhzuots2e.onion - was - securetalks.biz 
+xmpp.rows.io - yz6yiv2hxyagvwy6.onion 
+riseup.net - 4cjw6cwpeaeppfqz.onion 
+--------------
+Singapore
+thesecure.biz
+--------------
+France
+exploit.im 
+fuckav.in - There is a Cyrillic character filter
+--------------
+Canada
+jabber.otr.im- 5rgdtlawqkcplz75.onion 
+From OTR develop team
+--------------
+Austria
+jabber.ccc.de - okj7xc6j2szr2y75.onion 
+--------------
+Romania
+jabber.cryptoparty.is - cryjabkbdljzohnp.onion 
+
+--------------
+
+chatsecure: 
+@jabber.calyxinstitute.org 
+@dukgo.com 
+@jabber.otr.im 
+@jabberpl.org 
+
+--------------
+
+Well served:
+deshalbfrei.org 
+draugr.de 
+jabber.at 
+ubuntu-jabber.de 
+ubuntu-jabber.net 
+verdammung.org 
+xabber.de 
+jabber.zone 
+suchat.org 
+xmpp.ninja 
+xmpp.zone 
+
+--------------
+
+Onion: 
+securejabber.me - giyvshdnojeivkom.onion 
+jabber.otr.im - 5rgdtlawqkcplz75.onion 
+kode.im - ihkw7qy3tok45dun.onion 
+jabber.ccc.de - okj7xc6j2szr2y75.onion 
+trashserver.net - m4c722bvc2r7brnn.onion 
+creep.im - creep7nissfumwyx.onion 
+draugr.de - jfel5icoxf3nmftl.onion 
+im.koderoot.net - 7qy3tok45dun.onion 
+xmpp.is - y2qmqomqpszzryei.onion 
+wiuwiu.de - jrbiogs6dv5txt5s.onion 
+systemli.org - x5tno6mwkncu5m3h.onion 
+tchncs.de - duvfmyqmdlyvc3mi.onion 
+jabber-germany.de - dbbrphko5tqcpar3.onion 
+xmpp.dk - mjfjbs3547exsy6r.onion 
+cloak.dk - m2dsl4banuimpm6c.onion 
+jabber.ipredator.se - 3iffdebkzzkpgipa.onion
+jabber.lqdn.fr - jabber63t4r2qi57.onion
+jabber.cryptoparty.is - cryjabkbdljzohnp.onion
+metalgamer.eu - 57k6e5omuxifigb5.onion
+jabjab.de - jabjabdevfoob7hl.onion
+5222.de - jtovcabr2vhflcqg.onion
+bommboo.de - ujvdniabz53upqfx.onion
+pimux.de - maspm2xs6xavmpo6.onion
+dismail.de - l2epd2e4g2hx3tdf.onion
+danwin1210.me - tt3j2x4k5ycaa5zt.onion
+westchat.de - qsuos63vbnam5lpu.onion
+lu4qfnnkbnduxurt.onion
