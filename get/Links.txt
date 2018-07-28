@@ -1,4 +1,30 @@
+IP search:
+https://www.zoomeye.org/
+https://www.shodan.io/
+https://www.censys.io/
 
+exploit:
+https://www.exploit-db.com/
+https://rss.packetstormsecurity.com/
+https://krebsonsecurity.com/
+https://www.cvedetails.com/
+https://vulners.com/
+https://snyk.io/
+https://www.saucs.com/
+
+
+----------------------------------------------------------
+| rss                                                    |
+| https://rss.packetstormsecurity.com/files/tags/exploit/|
+| https://www.exploit-db.com/rss.xml                     |
+| https://krebsonsecurity.com/feed/                      |
+| https://www.cvedetails.com/browse-by-date.php          |
+----------------------------------------------------------
+
+
+
+forum:
+https://0x00sec.org/
 
 
 
