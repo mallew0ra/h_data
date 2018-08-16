@@ -41,6 +41,20 @@ https://torstatus.rueckgr.at/				            	torstatus
 http://rougmnvswfsmd4dq.onion/					            Tor metrics
 
 ________________________________________________________________________
+
+Security & Privacy
+
+http://ic6au7wa3f6naxjq.onion/ GnuPG
+http://elx57ue5uyfplgva.onion/ OnionShare
+http://pgpkeysximvxiazm.onion/ OpenPGPkeyserver
+https://privacyintyqcroe.onion/ Privacy International
+http://bpo4ybbs2apk4sk4.onion/en/ Security in a Box
+http://obrrsrw6b3rjuibx.onion/ SKS OpenPGP
+http://expyuzz4wqqyqhjn.onion/ TorProject
+http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy whonix
+https://privacyintyqcroe.onion/ Privacy International
+
+________________________________________________________________________
 DarkNet Sites:
 
 http://psycnets7z6tvqpa.onion/					            Psycho Social Network
@@ -71,6 +85,17 @@ http://x7giprgefwfvkeep.onion/					            Hidden clubs
 http://hackcanl2o4lvmnv.onion/blackcrawl/index.html		    blackcrawl
 http://xsold3pvbxt4xblv.onion/                              LiberTORian
 http://tt3j2x4k5ycaa5zt.onion/                              daniel site???
+https://www.cyphdbyhiddenbhs.onion/                         Cyph Messenger: An open-source video chat and file transfer solution comparable to services like Skype.
+http://avengersdutyk3xf.onion/?bt=1                         DNMAvengers
+http://dreadditevelidot.onion/protect                       dread A Reddit-like community for drug market discussions and reviews among other internet-related topics.
+http://bskoid4l5redrw5m.onion/                              Smuxi: A free, user-friendly chat (IRC) client.
+http://suprbayoubiexnmp.onion/                              Suprbay: The official TPB forum.
+http://thehub7xbw4dc5r2.onion/                              TheHub: A forum for drug market discussions, news, and operational security guides created by anonymous individuals.
+http://drkhsh5rv6pnahas.onion/                              drksh  A hackers personal blog and Git repository.
+http://jamiewebgbelqfno.onion/                              Jamie Scaife
+http://7tm2lzezyjwtpn2s.onion/                              Sarah Jamie Lewis: Sarah
+http://mattttttssi4lhud.onion/                              Traudt: A Naval Research Lab researchers' personal blog that covers Tor development and general internet topics.
+
 
 ________________________________________________________________________
 Hack:
@@ -92,6 +117,10 @@ http://pastebinkaav4f5x.onion/					            Yet another pastebin
 http://depastedihrn3jtw.onion/					            deepaste
 http://mc6nld3gmkz4l4sk.onion/					            Create a new paste
 http://hl7oh5lpk27t2juu.onion					            0 bullshit anonymous pastebin
+http://6zc6sejeho3fwrd4.onion/					            Riseup Paste
+http://pastagdsp33j7aoq.onion/					            Pasta
+http://zerobinqmdqd236y.onion/					            zero bin
+http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin		felixxx
 ________________________________________________________________________
 Darknet upload:
 
@@ -109,6 +138,12 @@ http://www.grrmailb3fxpjbwm.onion/			            	Guerilla mail
 http://torbox3uiot6wchz.onion/				            	torbox
 http://bitmailendavkbec.onion/				            	Bitmessage
 http://mail2tor2zyjdctd.onion/				            	Mail2tor
+http://cwu7eglxcabwttzf.onion/				            	Confidant
+http://eludemaillhqfkh5.onion/				            	Elude
+http://grrmailb3fxpjbwm.onion/				            	GuerrillaMail
+http://clgs64523yi2bkhz.onion/				            	mail pile
+https://protonirockerxow.onion/login				        protonmail
+http://zsolxunfmbfuq7wf.onion/rc/				            riseup
 _________________________________________________________________________
 Fake ID's:
 
@@ -238,6 +273,12 @@ http://sejnfjrq6szgca7v.onion/News/			            	Debian
 http://7rmath4ro2of2a42.onion					            SoylentNews is people
 http://darkway.torpress2sarn7xw.onion/			            Dark way
 
+________________________________________________________________________
+Libraries
+
+http://2bu5puxp6afwjgql.onion/				            	Z-Lib is the self-proclaimed "world's largest ebook library,"
+http://r6rfy5zlifbsiiym.onion/series/0021				    Comic Books: Lists a ton of downloadable comics
+http://xfmro77i3lixucja.onion				            	Imperial: An open-source, DRM-free repository of ebooks with the ability to upload books to the website to help grow the collection.
 ________________________________________________________________________
 Other:
 
