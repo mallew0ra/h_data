@@ -75,6 +75,22 @@ https://haveibeenpwned.com/
 
 =================================
 
-scanners:
+Scanners:
+
 https://nmap.org/nsedoc
 http://www.domxssscanner.com/
+
+=================================
+
+Gits:
+
+https://github.com/Hack-with-Github/Awesome-Hacking
+
+=================================
+
+Decode:
+
+https://2cyr.com/decode/?lang=ru
+https://meyerweb.com/eric/tools/dencoder/
+
+=================================
