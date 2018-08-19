@@ -92,5 +92,6 @@ Decode:
 
 https://2cyr.com/decode/?lang=ru
 https://meyerweb.com/eric/tools/dencoder/
+https://cryptii.com/
 
 =================================
