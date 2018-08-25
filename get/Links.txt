@@ -72,6 +72,8 @@ Info gather:
 https://other.w3rank.ru/
 https://www.netcraft.com/
 https://haveibeenpwned.com/
+https://checkusernames.com/
+https://builtwith.com/
 
 =================================
 
