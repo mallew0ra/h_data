@@ -18,6 +18,7 @@ https://null-byte.wonderhowto.com/
 https://www.shellhacks.com/
 https://www.offensive-security.com/
 https://www.cyber-security.ro/blog/
+https://blackdiver.net/
 
 =================================
 
@@ -49,6 +50,8 @@ https://www.packetstormsecurity.com/
 https://krebsonsecurity.com/
 https://www.cvedetails.com/browse-by-date.php
 https://cxsecurity.com/
+https://insecure.org/
+https://seclists.org/
 
 ----------------------------------------------------------
 | RSS:                                                   |
