@@ -36,6 +36,7 @@ https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/
 http://carnal0wnage.attackresearch.com/2010/05/playing-with-ms09-012-windows-local.html
 https://www.commonexploits.com/token-kidnapping-revenge/
 https://www.commonexploits.com/unquoted-service-paths/ 
+https://mega.nz/#F!MuohUaoI!amQX9tv9fp3Nlw3Me3tvBg
 
 =================================
 
