@@ -1,0 +1,4 @@
+rpcinfo
+xxd
+ltrace
+smbclient
