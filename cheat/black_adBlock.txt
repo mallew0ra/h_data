@@ -1,0 +1,17 @@
+cdn.sendpulse.com/*
+yastatic.ne/*
+use.fontawesome.com/*
+mc.yandex.ru/*
+top-fwz1.mail.ru/*
+connect.facebook.net/*
+yastatic.net/*
+cdn.shopify.com/*
+counter.yadro.ru/*
+yastatic.net/share2/
+yastatic.net/share2/*
+mc.yandex.ru/metrika/watch.js
+mc.yandex.ru/metrika/*
+pp.userapi.com/c841231/*
+yastatic.net/share2/share.js
+gstatic.com/*
+vk.com/widget_community_messages.php?*
