@@ -20,7 +20,7 @@ def main():
   fileOut = input('Output File > ')
   print('=> {}\n'.format(fileOut))
   otFile = open(fileOut, 'a')
-  swich = input('choose 1 Base64 or 2 URL encode, 3 for two:  ')
+  swich = input('choose (1) Base64_encode OR (2) URL_encode OR (3) for both: ')
   if swich == '1' or '2' or '3':
       if swich == '1':
           comBase64(inFile, otFile)
