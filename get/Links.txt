@@ -116,6 +116,7 @@ Decode:
 https://2cyr.com/decode/?lang=ru
 https://meyerweb.com/eric/tools/dencoder/
 https://cryptii.com/
+https://www.artlebedev.ru/decoder/advanced/
 
 =================================
 
