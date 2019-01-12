@@ -194,6 +194,12 @@ git clone https://github.com/Jamalc0m/wphunter/
 
 ========================================
 
+Snich:
+
+git clone https://github.com/Smaash/snitch
+
+========================================
+
 Metaphor
 --fake phone call
 
