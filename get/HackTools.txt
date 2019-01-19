@@ -170,9 +170,9 @@ git clone https://www.github.com/threat9/routersploit
 
 ========================================
 
-Sublist3r:
+Fetch Some Proxies:
 
-git clone https://github.com/aboul3la/Sublist3r.git
+git clone https://github.com/Jamalc0m/fetch-some-proxies.git
 
 ========================================
 
@@ -229,6 +229,17 @@ https://github.com/TheDarkHorseUprising/Trespass
 
 ========================================
 
+Terminals are Sexy
+
+https://github.com/k4m4/terminals-are-sexy
+
+========================================
+
+Movies for Hackers
+
+https://github.com/k4m4/movies-for-hackers
+
+========================================
 git clone https://github.com/UnaPibaGeek/ctfr
 git clone https://github.com/portcullislabs/enum4linux
 git clone https://github.com/samhaxr/hackbox.git`
