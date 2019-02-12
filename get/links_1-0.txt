@@ -74,8 +74,9 @@ http://www.hackingtutorials.org
 https://www.reddit.com/r/HowToHack/
 http://www.hackershandbook.org/tutorials
 https://github.com/carpedm20/awesome-hacking
-
-
+https://www.dionach.com/blog/the-real-impact-of-cross-site-scripting
+http://liveoverflow.com/binary_hacking/reverse_engineering.html
+http://kmb.ufoctf.ru/re/main.html
 
 
 ╔═╗╔═╗╔═╗╦ ╦╦═╗╦╔╦╗╦ ╦  ╔═╗╦ ╦╦╔╦╗╔═╗
@@ -251,6 +252,8 @@ http://codebeautify.org/encrypt-decrypt
 http://encryption.online-toolz.com
 http://textmechanic.com/Encryption-Generator.html
 http://www.yellowpipe.com/yis/tools/encrypter/
+https://2cyr.com/decode/?lang=ru
+https://meyerweb.com/eric/tools/dencoder/
 
 
 
@@ -415,6 +418,20 @@ http://www.deadman.io
 https://www.deadmansswitch.net
 
 
+FORUM
+=====
+https://hacking.sx/index.php
+
+CTF
+===
+http://captf.com/practice-ctf/
+https://www.root-me.org/?page=news&lang=en
+
+
+LIAKZ
+===========================================
+https://browserleaks.com/features
+
 
 ╔═╗╦╔╦╗
 ║ ╦║ ║ 
@@ -428,3 +445,4 @@ https://github.com/rhodejo/
 
 '''''''''''''''''''''''''''
 https://pastebin.com/u/PH1K3
+https://blog.anima.tech/
