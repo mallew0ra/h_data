@@ -446,3 +446,5 @@ https://github.com/rhodejo/
 '''''''''''''''''''''''''''
 https://pastebin.com/u/PH1K3
 https://blog.anima.tech/
+
+https://osintframework.com/
