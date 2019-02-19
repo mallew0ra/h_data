@@ -240,8 +240,26 @@ Movies for Hackers
 https://github.com/k4m4/movies-for-hackers
 
 ========================================
-git clone https://github.com/UnaPibaGeek/ctfr
+
+Enum 4 Linux
+
 git clone https://github.com/portcullislabs/enum4linux
+
+========================================
+
+SNMP Enum
+
+git clone https://github.com/ajohnston9/snmpenum
+
+========================================
+
+Nullinux
+
+git clone https://github.com/m8r0wn/nullinux
+
+========================================
+
+git clone https://github.com/UnaPibaGeek/ctfr
 git clone https://github.com/samhaxr/hackbox.git`
 git clone https://github.com/UltimateHackers/sqlmate
 git clone https://github.com/b374k/b374k
