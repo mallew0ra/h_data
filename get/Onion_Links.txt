@@ -262,9 +262,11 @@ http://rrcc5uuudhh4oz3c.onion/				            	IntelExchange
 http://n7uub757gowpvoa2.onion/				            	Intel cutout
 http://arch3rsecgjqcmjb.onion/				            	arch3rec
 http://onionlandbakyt3j.onion/				            	Darknet classed
-http://gf2juatsqdph6x2h.onion/				            	Torum it forum
 http://qltofas4q3tgnshl.onion/psc.pl	            		Simple Dark Boards
 http://rrcc5uuudhh4oz3c.onion/          					Intel Exchange forum
+
+http://gf2juatsqdph6x2h.onion/				            	Torum it forum
+http://torum6uvof666pzw.onion/
 
 _________________________________________________________________________
 News:
