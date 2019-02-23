@@ -1,0 +1,6 @@
+#to use nmap with tor
+proxychains4 nmap -sT -PN -sV --open -n -p 80
+nmap --proxy socks4://127.0.0.1:9050 -sT -PN -sV --open -n -p 80
+
+#use wpscan with tor (works with anonsurf alright) 
+wpscan -u http://site.com -e p,vt,u --proxy socks5://127.0.0.1:9050 --request-timeout 500 --connect-timeout 120 -r --batch
