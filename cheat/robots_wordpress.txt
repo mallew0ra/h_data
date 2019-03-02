@@ -1,0 +1,10 @@
+Disallow: /*/wp-*
+Disallow: /*/feed/*
+Disallow: /*/*?s=*
+Disallow: /*/*.js$
+Disallow: /*/*.inc$
+Disallow: /*/trackback/*
+Disallow: /*/xmlrpc.php
+
+User-agent: ia_archiver
+Disallow: /
