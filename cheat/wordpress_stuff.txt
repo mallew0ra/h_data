@@ -1,0 +1,19 @@
+PATH:
+
+/wp-content/
+/wp-content/languages/plugins
+/wp-content/languages/themes
+/wp-content/plugins/
+/wp-content/themes/
+/wp-content/uploads/
+
+nmap:
+nmap -sV --script http-wordpress-info <ip>
+nmap -p80 --script http-wordpress-brute --script-args 'userdb=users.txt,passdb=passwords.txt' example.com
+
+msf:
+auxiliary/scanner/http/wordpress_scanner
+auxiliary/scanner/http/wordpress_login_enum
+
+Other:
+https://github.com/epinna/weevely3
