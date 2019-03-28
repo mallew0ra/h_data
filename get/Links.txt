@@ -145,5 +145,14 @@ https://blog.ropnop.com/transferring-files-from-kali-to-windows/ - Transferring 
 Essential FireFox Addons:
 https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/ - Cookies Manager+
 https://addons.mozilla.org/en-US/firefox/addon/tamper-data/ - Tamper Data
+
+SQLi
+http://www.securityidiots.com/Web-Pentest/SQL-Injection/Blind-SQL-Injection.html
+https://github.com/thryb/sqlmap-tamper
+https://securityonline.info/sqlmap-tamper-script-bypassing-waf/
+https://prakash-khadka.com.np/wp-content/uploads/pdf/www-moonsec-com.pdf
+https://jasonhaddix.com/projects/
+https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3
+https://pen-testing.sans.org/blog/2017/10/13/sqlmap-tamper-scripts-for-the-win
 =================================
 
