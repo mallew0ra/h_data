@@ -156,3 +156,4 @@ https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5
 https://pen-testing.sans.org/blog/2017/10/13/sqlmap-tamper-scripts-for-the-win
 =================================
 
+https://blog.websecurify.com/2018/03/fuzzing-json-web-services.html
