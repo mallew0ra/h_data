@@ -1,0 +1,4 @@
+inurl:'/index.php?option=com_ariquiz&view=category&categoryId=*&Itemid=236'
+inurl:'/index.php?categoryId=*'
+inurl:'/index.php?view=category&categoryId=*'
+inurl:'/index.php?option=com_ariquiz&view=category&categoryId=*&Itemid=*'
