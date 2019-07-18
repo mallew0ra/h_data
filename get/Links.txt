@@ -158,3 +158,4 @@ https://pen-testing.sans.org/blog/2017/10/13/sqlmap-tamper-scripts-for-the-win
 
 https://blog.websecurify.com/2018/03/fuzzing-json-web-services.html
 https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-7238-insufficient-access-controls-in-sonatype-nexus-repository-manager-3-allows-remote-code-execution/
+https://alionder.net/jenkins-script-console-code-exec-reverse-shell-java-deserialization/
