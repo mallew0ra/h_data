@@ -1,1 +1,5 @@
+List rules
+sudo iptables -L
+
 iptables -I INPUT -s 0.0.0.0 -j DROP
+iptables -t filter -A INPUT -s 59.45.175.62 -j REJECT
