@@ -259,6 +259,22 @@ git clone https://github.com/m8r0wn/nullinux
 
 ========================================
 
+
+GIT OSINT
+
+        git clone https://github.com/dxa4481/truffleHog
+	git clone https://github.com/anshumanbh/git-all-secrets
+	git clone https://github.com/zricethezav/gitleaks
+	git clone https://github.com/michenriksen/gitrob
+	git clone https://github.com/UnkL4b/GitMiner
+	git clone https://github.com/eth0izzle/shhgit
+	git clone https://github.com/hisxo/gitGraber
+	git clone https://github.com/tillson/git-hound
+
+
+
+
+
 git clone https://github.com/UnaPibaGeek/ctfr
 git clone https://github.com/samhaxr/hackbox.git`
 git clone https://github.com/UltimateHackers/sqlmate
