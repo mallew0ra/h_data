@@ -4,3 +4,8 @@ nmap --proxy socks4://127.0.0.1:9050 -sT -PN -sV --open -n -p 80
 
 #use wpscan with tor (works with anonsurf alright) 
 wpscan -u http://site.com -e p,vt,u --proxy socks5://127.0.0.1:9050 --request-timeout 500 --connect-timeout 120 -r --batch
+
+#Scan all ports
+#!/bin/bash
+ports=$(nmap -p- --min-rate=1000 -T5 $1 | grep ^[0-9] | cut -d '/' -f 1 | tr '\n' ',' | sed s/,$//)  
+nmap -sCV -PE -Pn --script=banner -p$ports $1 > $2
