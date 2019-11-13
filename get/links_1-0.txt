@@ -150,6 +150,7 @@ http://www.md5this.com/index.php
 https://crackstation.net
 https://isc.sans.edu/tools/reversehash.html
 http://rainbowtables.it64.com/
+http://www.ifm.net.nz/cookbooks/index.html
 
 -> Paid (with WPA/WPA2 Recovery)
 -----------------------------------------------
