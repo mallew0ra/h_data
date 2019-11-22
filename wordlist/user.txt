@@ -1,4 +1,7 @@
 root
+www-data
+Pi
+pi
 user
 User
 guest
