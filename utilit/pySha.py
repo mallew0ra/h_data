@@ -4,10 +4,8 @@ import hashlib
 
 def hash(inF, outF):
   for line in inF.readlines():
-      encSha = hashlib.sha256(line.strip('\n').encode('utf-8)).hexdigest()
-      #encUrl = quote(line.strip('\n'), safe='')
+      encSha = hashlib.sha256(line.strip('\n').encode('utf-8')).hexdigest()
       outF.write(encSha+'\n')
-      #print(hashlib.sha256("666".encode('utf-8)).hexdigest())
 
 def main():
   fileIn = input('Input File > ')
